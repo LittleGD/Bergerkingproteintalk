@@ -1,0 +1,29 @@
+.details-top-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    margin: 32px 0px;
+}
+
+.details-top-nav__column {
+    width: 33%;
+}
+
+.details-top-nav__column:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    font-family: 'Patua One';
+    font-size: 18pt;
+}
+
+.details-top-nav__column:last-child {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.details-top-nav__column:last-child i {
+    margin-left: 16px;
+}
+

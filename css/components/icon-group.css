@@ -1,0 +1,25 @@
+.icon-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 8px 24px 8px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    flex-wrap: wrap;
+}
+
+.icon-group__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25%;
+    align-items: center;
+    text-align: center;
+    height: 140px;
+
+    
+}
+
+.icon-group__list i {
+    margin-bottom: 24px;
+    opacity: 0.9;
+}

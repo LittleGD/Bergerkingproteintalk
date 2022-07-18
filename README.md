@@ -1,3 +1,3 @@
 # Nomad Coders Challange
 
-Bergerking Protein Talker!
+Burgerking Protein Talker!

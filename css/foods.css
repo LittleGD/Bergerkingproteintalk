@@ -1,0 +1,30 @@
+.foods-page {
+    padding: 0px 24px;
+}
+
+#New-Burger-Display {
+    text-align: center;
+    display: block;
+    background-color: whitesmoke;
+    padding: 16px;
+    color: rgba(0, 0, 0, 0.7);
+    margin-bottom: 24px;
+    margin-top:-24px;
+}
+
+#New-Burger-Display i {
+    margin: 0px 8px;
+}
+
+.foods-page__more {
+    margin-top:  24px;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    padding-top: 24px;
+}
+
+.foods-page__more-header {
+    margin-bottom: 24px;
+    color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: space-between;
+}

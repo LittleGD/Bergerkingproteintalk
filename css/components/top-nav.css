@@ -1,0 +1,17 @@
+.screen-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px;
+    margin: 16px 0px;
+}
+
+.screen-header__title {
+    font-family: 'Patua One';
+    font-size: 24pt;
+}
+
+.screen-header__icons span {
+    margin-left: 24px;
+    color: rgba(0, 0, 0, 0.7)
+}
